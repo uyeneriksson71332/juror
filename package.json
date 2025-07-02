@@ -1,0 +1,10 @@
+{
+  "name": "juror",
+  "version": "0.1.0",
+  "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
