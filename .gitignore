@@ -9,3 +9,4 @@ tmp/
 *.tmp
 .cache/
 .pytest_cache/
+Desktop.ini
